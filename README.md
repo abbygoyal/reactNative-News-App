@@ -1,1 +1,1 @@
-# yt-tech-new-app
+# Reactnative News App
